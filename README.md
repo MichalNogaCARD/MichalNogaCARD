@@ -5,7 +5,7 @@ Check out my projects:<br/>
 <br/>
 -> store application: https://github.com/MichalNogaCARD/store_application
 <br/>
--> programming mix are interesting little programming tasks in: Java, JavaScript, TypeScript, Python, Groovy
+-> programming mix - interesting little programming tasks in: Java, JavaScript, TypeScript, Python, Groovy
 https://github.com/MichalNogaCARD/programming_mix 
 
 
