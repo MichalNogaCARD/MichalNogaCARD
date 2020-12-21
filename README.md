@@ -2,7 +2,10 @@
 
 Check out my projects:<br/>
 -> microservices: https://github.com/MichalNogaCARD/microservices
+<br/>
 -> store application: https://github.com/MichalNogaCARD/store_application
+<br/>
+-> programming_mix. Interesting little programming tasks in: Java, JavaScript, TypeScript, Python, Groovy
 
 
 
