@@ -4,6 +4,7 @@ Check out my projects:<br/>
 -> microservices: https://github.com/MichalNogaCARD/microservices
 <br/>
 -> store application part one: https://github.com/MichalNogaCARD/store_application_backend
+<br/>
 -> store application part two: https://github.com/MichalNogaCARD/store_application_frontend
 <br/>
 -> programming mix - interesting little programming tasks in: Java, JavaScript, TypeScript, Python, Groovy
