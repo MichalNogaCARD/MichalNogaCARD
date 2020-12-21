@@ -2,6 +2,7 @@
 
 Check out my projects:<br/>
 -> microservices: https://github.com/MichalNogaCARD/microservices
+-> store application: https://github.com/MichalNogaCARD/store_application
 
 
 
