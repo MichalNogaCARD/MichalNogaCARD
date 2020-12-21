@@ -3,7 +3,8 @@
 Check out my projects:<br/>
 -> microservices: https://github.com/MichalNogaCARD/microservices
 <br/>
--> store application: https://github.com/MichalNogaCARD/store_application
+-> store application part one: https://github.com/MichalNogaCARD/store_application_backend
+-> store application part two: https://github.com/MichalNogaCARD/store_application_frontend
 <br/>
 -> programming mix - interesting little programming tasks in: Java, JavaScript, TypeScript, Python, Groovy
 https://github.com/MichalNogaCARD/programming_mix 
