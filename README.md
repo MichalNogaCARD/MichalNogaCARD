@@ -9,7 +9,7 @@ Check out my projects:<br/>
 <br/>
 -> programming mix - interesting little programming tasks in: Java, JavaScript, TypeScript, Python, Groovy
 https://github.com/MichalNogaCARD/programming_mix 
-
+-> CheckiO programming game solutions: https://github.com/MichalNogaCARD/checkio
 
 
 <!--
