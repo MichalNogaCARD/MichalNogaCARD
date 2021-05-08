@@ -7,7 +7,9 @@ Check out my projects:<br/>
 <br/>
 -> store application part two: https://github.com/MichalNogaCARD/store_application_frontend
 <br/>
--> CheckiO programming game Python solutions: https://github.com/MichalNogaCARD/checkio
+-> CheckiO programming game Python solutions: https://github.com/MichalNogaCARD/checkio_python
+</br>
+-> CheckiO programming game Type Script solutions: https://github.com/MichalNogaCARD/checkio_ts
 </br>
 -> programming mix - interesting little programming tasks in: Java, JavaScript, TypeScript, Python, Groovy
 https://github.com/MichalNogaCARD/programming_mix 
