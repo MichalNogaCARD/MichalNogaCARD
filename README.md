@@ -3,13 +3,13 @@
 Check out my projects:<br/>
 -> microservices: https://github.com/MichalNogaCARD/microservices
 <br/>
--> store application part one: https://github.com/MichalNogaCARD/store_application_backend
+-> 🔭 store application frontend: https://github.com/MichalNogaCARD/store_application_backend
 <br/>
--> store application part two: https://github.com/MichalNogaCARD/store_application_frontend
+-> 🔭 store application backend: https://github.com/MichalNogaCARD/store_application_frontend
 <br/>
--> CheckiO programming game Python solutions: https://github.com/MichalNogaCARD/checkio_python
+-> 🌱 CheckiO programming game Python solutions: https://github.com/MichalNogaCARD/checkio_python
 </br>
--> CheckiO programming game Type Script solutions: https://github.com/MichalNogaCARD/checkio_ts
+-> 🌱 CheckiO programming game Type Script solutions: https://github.com/MichalNogaCARD/checkio_ts
 </br>
 -> programming mix - interesting little programming tasks in: Java, JavaScript, TypeScript, Python, Groovy
 https://github.com/MichalNogaCARD/programming_mix 
